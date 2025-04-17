@@ -122,6 +122,7 @@ int main(){
     printf("PIB em milhões: R$ %.2f\n", pib_02);
     printf("Pontos Turisticos: %i\n\n", pontos_turisticos_02);
 
+// novo
 
 
 }
